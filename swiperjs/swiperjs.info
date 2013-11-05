@@ -1,0 +1,5 @@
+name = swiperjs module
+description = Load swiper js library to drupal.
+dependencies[] = libraries (2.x)
+core = 7.x
+
