@@ -1,9 +1,8 @@
 Installation
 
 To install this module you must download it and install in
-/root/sites/all/modules/swiper
-or
-/root/sites/all/modules/contrib/swiper
+/sites/all/modules/
 
+Download the swiper library from https://github.com/nolimits4web/Swiper into sites/all/libraries directory.
 
-
+Enable the module
